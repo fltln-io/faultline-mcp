@@ -69,3 +69,5 @@ claude mcp add --transport http faultline-mcp https://mcp.fltln.io/mcp \
 
 Questions or issues: [support@fltln.io](mailto:support@fltln.io) or the
 [Faultline dashboard](https://fltln.io).
+
+[![MCP Badge](https://lobehub.com/badge/mcp/fltln-io-faultline-mcp)](https://lobehub.com/mcp/fltln-io-faultline-mcp)
